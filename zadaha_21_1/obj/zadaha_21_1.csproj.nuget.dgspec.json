@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj": {}
+    "c:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj": {
+    "c:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj",
+        "projectUniqueName": "c:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj",
         "projectName": "zadaha_21_1",
-        "projectPath": "C:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj",
+        "projectPath": "c:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\zadaha_21_1.csproj",
         "packagesPath": "C:\\Users\\slavj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\obj\\",
+        "outputPath": "c:\\Users\\slavj\\OneDrive\\Рабочий стол\\Domashka\\Domashka\\zadaha_21_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavj\\AppData\\Roaming\\NuGet\\NuGet.Config"
